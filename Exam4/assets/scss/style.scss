@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-light {
+    background-color: aqua;
+}
+.collapse navbar-collapse{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.backround-photo{
+    width: 100%;
+    height: 100vh;
+}
+.crud{
+    justify-content: space-between;
+    align-items: center;
+}
